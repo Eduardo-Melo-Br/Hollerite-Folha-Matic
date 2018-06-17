@@ -1,0 +1,11 @@
+1CONDOMÍNIO EDIFÍCIO ANDES                         12768120000112      RUA IRMÃ SERAFINA nº824                                                                                                                               CENTRO                                            CAMPINAS                                          SP13015-200Abril    2016
+21         ULISSES FERREIRA DOS SANTOS                                                                         Zelador de edifício                               0110200149282-00231         341Itaú 0716                                         0716           78644          26549906806         020206052016
+31001Salario                                           30,00    P000000000156554
+31009Hora extra - 50%                                  05:00    P000000000007365
+31012DSR - Hora extra                                  5,00     P000000000001473
+31082Bienio                                            0,00     P000000000023483
+31579Ac função c/Bienio                                0,00     P000000000036007
+32080INSS                                              9,00     D000000000020239
+32501Contribuição Confederativa                        0,00     D000000000003131
+4000000000224882000000000023370000000000201512000000000156554000000000224882000000000224882000000000017990000000000166725
+5Declaro ter recebido a cesta do mes acima                                                                                                                                                               

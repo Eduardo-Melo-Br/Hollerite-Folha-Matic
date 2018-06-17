@@ -1,0 +1,82 @@
+1CONDOMINIO EDIFICIO SANTA CRUZ                    66078809000144      RUA SANTA CRUZ nº174                                                                                                                                  CAMBUI                                            CAMPINAS                                          SP13024-100Novembro 2015
+22         MARISA HELENA RODRIGUES SAMAZZA                                                                     Porteiro(a) de Edifícios                          0201200422908-310           033Santander 3644                                    3644           01049661       01675323836         000005122015
+31032Complemento líquido - Crédito                     0,00     P000000000026746
+31082Bienio                                            0,00     P000000000000000
+31501Acumulo de Função 20%                             0,00     P000000000000000
+31523Vale Transporte Campinas                          0,00     P000000000000000
+32032Complemento líquido - Débito                      0,00     D000000000018352
+32501Contribuição Confederativa                        0,00     D000000000002394
+32502Contribuição Assistencial                         0,00     D000000000006000
+32525Vale Transporte 3%                                3,00     D000000000000000
+4000000000026746000000000026746000000000000000000000000119697000000000000000000000000000000000000000000000000000000000000
+5Declaro que recebi a cesta do mes                                                                                                                                                                       
+23         MARCELO DOS SANTOS SILVA                                                                            Porteiro(a) de Edifícios                          0601201099691-150                                                                                              25764830893         000005122015
+31001Salario                                           30,00    P000000000128674
+31008Adicional Noturno                                 225:00   P000000000026320
+31009Hora extra - 50%                                  34:00    P000000000038913
+31010Intra Jornada - 50%                               22:00    P000000000025179
+31011Hora extra - 100%                                 27:00    P000000000041202
+31012DSR - Hora extra                                  7,00     P000000000033439
+31021Diferença salarial                                0,00     P000000000018498
+31082Bienio                                            0,00     P000000000012867
+31088DSR - Adicional Noturno                           0,00     P000000000008010
+31502Intra jornada 100%                                03:00    P000000000004578
+31523Vale Transporte Campinas                          0,00     P000000000000000
+32030Adiantamento salarial                             40,00    D000000000051470
+32080INSS                                              11,00    D000000000037144
+32090IRRF                                              7,50     D000000000004400
+32501Contribuição Confederativa                        0,00     D000000000002573
+32502Contribuição Assistencial                         0,00     D000000000006000
+32525Vale Transporte 3%                                3,00     D000000000003860
+4000000000337680000000000105447000000000232233000000000128674000000000337680000000000337680000000000027014000000000249066
+5Declaro que recebi a cesta do mes                                                                                                                                                                       
+26         GERALDO MARQUES DA SILVA                                                                            Porteiro(a) de Edifícios                          010420138124-384            033Santander 3644                                    3644           010496591      72021624820         000005122015
+31001Salario                                           30,00    P000000000128674
+31010Intra Jornada - 50%                               11:00    P000000000010133
+31011Hora extra - 100%                                 08:00    P000000000009826
+31012DSR - Hora extra                                  7,00     P000000000006448
+31021Diferença salarial                                0,00     P000000000013693
+31082Bienio                                            0,00     P000000000006434
+31502Intra jornada 100%                                01:00    P000000000001228
+32030Adiantamento salarial                             40,00    D000000000051470
+32080INSS                                              9,00     D000000000015879
+32501Contribuição Confederativa                        0,00     D000000000002573
+32502Contribuição Assistencial                         0,00     D000000000006000
+4000000000176436000000000075922000000000100514000000000128674000000000176436000000000176436000000000014114000000000109087
+5Declaro que recebi a cesta do mes                                                                                                                                                                       
+210        OLIVIO DA SILVA                                                                                     Porteiro(a) de Edifícios                          2403201570039-00111         104CEF 2886                                          2886           13858          24893737813         000005122015
+31001Salario                                           30,00    P000000000128674
+31008Adicional Noturno                                 18:00    P000000000002106
+31009Hora extra - 50%                                  16:00    P000000000014267
+31010Intra Jornada - 50%                               07:00    P000000000006242
+31011Hora extra - 100%                                 24:00    P000000000028534
+31012DSR - Hora extra                                  7,00     P000000000016012
+31021Diferença salarial                                0,00     P000000000010145
+31081Anuenio                                           0,00     P000000000000000
+31088DSR - Adicional Noturno                           0,00     P000000000000641
+31502Intra jornada 100%                                03:00    P000000000003567
+31523Vale Transporte Campinas                          0,00     P000000000000000
+32030Adiantamento salarial                             40,00    D000000000051470
+32080INSS                                              9,00     D000000000018916
+32501Contribuição Confederativa                        0,00     D000000000002573
+32502Contribuição Assistencial                         0,00     D000000000006000
+4000000000210188000000000078959000000000131229000000000128674000000000210188000000000210188000000000016815000000000139802
+5Declaro que recebi a cesta do mes                                                                                                                                                                       
+212        ANTONIA DA SILVA DOS SANTOS                                                                         Porteiro(a) de Edifícios                          1310201594561-00095                                                                                            21567563848         000005122015
+31001Salario                                           30,00    P000000000122909
+31009Hora extra - 50%                                  04:00    P000000000004022
+31010Intra Jornada - 50%                               08:00    P000000000008045
+31011Hora extra - 100%                                 24:00    P000000000032180
+31012DSR - Hora extra                                  7,00     P000000000014691
+31021Diferença salarial                                0,00     P000000000006174
+31081Anuenio                                           0,00     P000000000000000
+31501Acumulo de Função 20%                             0,00     P000000000024582
+31502Intra jornada 100%                                03:00    P000000000004022
+31523Vale Transporte Campinas                          0,00     P000000000000000
+32006Contribuição sindical                             1,00     D000000000004097
+32030Adiantamento salarial                             40,00    D000000000049164
+32080INSS                                              9,00     D000000000019496
+32501Contribuição Confederativa                        0,00     D000000000002458
+32502Contribuição Assistencial                         0,00     D000000000006000
+4000000000216625000000000081215000000000135410000000000122909000000000216625000000000216625000000000017330000000000147965
+5Declaro que recebi a cesta do mes                                                                                                                                                                       

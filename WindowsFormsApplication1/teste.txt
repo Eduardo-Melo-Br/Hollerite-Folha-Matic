@@ -1,0 +1,129 @@
+1CONDOMINIO EDIFICIO ALBATROZ                      54670823000153      RUA FERREIRA PENTEADO nº1338                                                                                                                          CAMBUI                                            CAMPINAS                                          SP13010-907Maio     2016
+26         JOAO CAZUZA DOS SANTOS                                                                              Trabalhador de serviços de manutenção de edifícios1003200367738-579           341Itaú 2976                                         2976           00306          13222846871         010106062016
+31001Salario                                           30,00    P000000000136310
+31031Arredondamento - Crédito                          0,00     P000000000000072
+31082Bienio                                            0,00     P000000000020447
+31501Acumulo de Função 20%                             0,00     P000000000027262
+31622ADIC.QUEBRA DE CAIXA                              0,00     P000000000005200
+32030Adiantamento salarial                             40,00    D000000000054524
+32031Arredondamento - Débito                           0,00     D000000000000112
+32080INSS                                              9,00     D000000000017029
+32501Contribuição Confederativa                        0,00     D000000000002726
+4000000000189291000000000074391000000000114900000000000136310000000000189219000000000189219000000000015137000000000098707
+5.                                                                                                                                                                                                       
+27         JOSE RIBAMAR ELIAS                                                                                  Zelador de edifício                               1502200565270-067           341Itaú 7643                                         7643           05496          11922433829         000006062016
+31001Salario                                           30,00    P000000000182750
+31009Hora extra - 50%                                  19:50    P000000000034066
+31012DSR - Hora extra                                  6,00     P000000000027554
+31031Arredondamento - Crédito                          0,00     P000000000000060
+31042Abono pecuniário                                  3,00     P000000000026674
+310431/3 sobre abono pecuniário                        0,00     P000000000008891
+31082Bienio                                            0,00     P000000000027413
+31501Acumulo de Função 20%                             0,00     P000000000036550
+31622ADIC.QUEBRA DE CAIXA                              0,00     P000000000005200
+31628Vale transporte folga trabalhada                  0,00     P000000000002280
+31639FOLGA TRABALHADA 100%                             36:00    P000000000080742
+32030Adiantamento salarial                             40,00    D000000000073100
+32031Arredondamento - Débito                           0,00     D000000000000035
+32040Líquido pago em férias                            0,00     D000000000035565
+32080INSS                                              11,00    D000000000043370
+32090IRRF                                              7,50     D000000000006555
+32501Contribuição Confederativa                        0,00     D000000000003655
+4000000000432180000000000162280000000000269900000000000182750000000000394275000000000394275000000000031542000000000277805
+5.                                                                                                                                                                                                       
+28         JOSE RIBEIRO DE SOUZA                                                                               Porteiro(a) de Edifícios                          0105199875051-262           341Itaú 7468                                         7468           07997          19658206468         000006062016
+31001Salario                                           30,00    P000000000136310
+31008Adicional Noturno                                 220:00   P000000000033320
+31009Hora extra - 50%                                  13:00    P000000000021155
+31010Intra Jornada - 50%                               13:00    P000000000021155
+31011Hora extra - 100%                                 26:00    P000000000056413
+31012DSR - Hora extra                                  6,00     P000000000023694
+31031Arredondamento - Crédito                          0,00     P000000000000052
+31082Bienio                                            0,00     P000000000020447
+31088DSR - Adicional Noturno                           6,00     P000000000007997
+31622ADIC.QUEBRA DE CAIXA                              0,00     P000000000005200
+32030Adiantamento salarial                             40,00    D000000000054524
+32031Arredondamento - Débito                           0,00     D000000000000096
+32080INSS                                              11,00    D000000000035826
+32090IRRF                                              7,50     D000000000003371
+32501Contribuição Confederativa                        0,00     D000000000002726
+4000000000325743000000000096543000000000229200000000000136310000000000325691000000000325691000000000026055000000000235341
+5.                                                                                                                                                                                                       
+210        VALDEYR MODESTO DE SOUZA                                                                            Porteiro(a) de Edifícios                          2108200877946-244           341Itaú 0546                                         0546           02002          22345162856         020206062016
+31001Salario                                           30,00    P000000000136310
+31010Intra Jornada - 50%                               04:00    P000000000005399
+31012DSR - Hora extra                                  6,00     P000000000001296
+31021Diferença salarial                                0,00     P000000000022719
+31031Arredondamento - Crédito                          0,00     P000000000000057
+31082Bienio                                            0,00     P000000000020447
+31622ADIC.QUEBRA DE CAIXA                              0,00     P000000000005200
+32030Adiantamento salarial                             40,00    D000000000054524
+32031Arredondamento - Débito                           0,00     D000000000000152
+32080INSS                                              9,00     D000000000017223
+32501Contribuição Confederativa                        0,00     D000000000002726
+32512Desconto de diferença de salario                  0,00     D000000000022719
+32605Pensão Alimenticia 25%                            0,00     D000000000034884
+4000000000191428000000000132228000000000059200000000000136310000000000191371000000000191371000000000015309000000000081706
+5.                                                                                                                                                                                                       
+212        VALMIR PEREIRA DOS SANTOS                                                                           faxineiro                                         01032011077224-379          341Itaú 7643                                         7643           10635          01786456800         000006062016
+31001Salario                                           30,00    P000000000136310
+31031Arredondamento - Crédito                          0,00     P000000000000084
+31082Bienio                                            0,00     P000000000013631
+31501Acumulo de Função 20%                             0,00     P000000000027262
+31590Premio                                            0,00     P000000000005200
+32030Adiantamento salarial                             40,00    D000000000054524
+32031Arredondamento - Débito                           0,00     D000000000000121
+32080INSS                                              9,00     D000000000016416
+32501Contribuição Confederativa                        0,00     D000000000002726
+4000000000182487000000000073787000000000108700000000000136310000000000182403000000000182403000000000014592000000000111463
+5.                                                                                                                                                                                                       
+216        EDIVAL FERREIRA DE SOUZA                                                                            Porteiro(a) de Edifícios                          0105201231871-276           341Itau 0546                                         0546           02042          13386488889         000006062016
+31008Adicional Noturno                                 50:00    P000000000007573
+31009Hora extra - 50%                                  04:00    P000000000004796
+31010Intra Jornada - 50%                               04:00    P000000000004796
+31011Hora extra - 100%                                 13:00    P000000000020783
+31012DSR - Hora extra                                  6,00     P000000000007674
+31031Arredondamento - Crédito                          0,00     P000000000000020
+31040Ferias                                            30,00    P000000000228084
+310411/3 sobre férias                                  0,00     P000000000076028
+31082Bienio                                            0,00     P000000000000000
+31088DSR - Adicional Noturno                           6,00     P000000000001818
+31502Intra jornada 100%                                01:00    P000000000001599
+31700TERMO DE ACORDO EXTRAJUDICIAL - JORNADA 12x36     0,00     P000000000000000
+32031Arredondamento - Débito                           0,00     D000000000000039
+32040Líquido pago em férias                            0,00     D000000000264640
+32080INSS                                              11,00    D000000000005394
+32083INSS Férias                                       11,00    D000000000033452
+32093IRRF Férias                                       7,50     D000000000006020
+32501Contribuição Confederativa                        0,00     D000000000002726
+4000000000353171000000000312271000000000040900000000000136310000000000353151000000000353151000000000028252000000000314305
+5.                                                                                                                                                                                                       
+222        RAFAEL APARECIDO DE SOUZA                                                                           Porteiro(a) de Edifícios                          0108201360303-356           341Itau 0546                                         0546           04260          43126716806         000006062016
+31001Salario                                           30,00    P000000000136310
+31008Adicional Noturno                                 90:00    P000000000013631
+31009Hora extra - 50%                                  09:00    P000000000011757
+31010Intra Jornada - 50%                               08:00    P000000000010450
+31011Hora extra - 100%                                 25:00    P000000000043544
+31012DSR - Hora extra                                  6,00     P000000000016616
+31021Diferença salarial                                0,00     P000000000024466
+31031Arredondamento - Crédito                          0,00     P000000000000049
+31082Bienio                                            0,00     P000000000006816
+31088DSR - Adicional Noturno                           6,00     P000000000003271
+31502Intra jornada 100%                                02:00    P000000000003483
+32030Adiantamento salarial                             40,00    D000000000054524
+32031Arredondamento - Débito                           0,00     D000000000000140
+32080INSS                                              11,00    D000000000029737
+32501Contribuição Confederativa                        0,00     D000000000002726
+32512Desconto de diferença de salario                  0,00     D000000000024466
+4000000000270393000000000111593000000000158800000000000136310000000000270344000000000270344000000000021627000000000186083
+5.                                                                                                                                                                                                       
+225        FRANCISCA FRANCINEIDE PADRICIO                                                                      faxineiro                                         16032015097606-0081         341Itau 2919                                         2919           01640          14058176822         010106062016
+31001Salario                                           30,00    P000000000132348
+31031Arredondamento - Crédito                          0,00     P000000000000016
+32018Vale transporte -                                 3,00     D000000000000000
+32030Adiantamento salarial                             40,00    D000000000052939
+32031Arredondamento - Débito                           0,00     D000000000000091
+32080INSS                                              8,00     D000000000010587
+32501Contribuição Confederativa                        0,00     D000000000002647
+4000000000132364000000000066264000000000066100000000000132348000000000132348000000000132348000000000010587000000000049863
+5.                                                                                                                                                                                                       
